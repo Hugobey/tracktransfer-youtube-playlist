@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #111318;
+  --panel: #1c2029;
+  --sunken: #0d0f14;
+  --text: #f3f5f8;
+  --muted: #aeb7c5;
+  --faint: rgba(174, 183, 197, 0.68);
+  --line: rgba(243, 245, 248, 0.1);
+  --line-strong: rgba(243, 245, 248, 0.22);
+  --border: #3a3e4a;
+  --blue: #3978f6;
+  --blue-2: #5b90f8;
+  --danger: #ff4d5e;
+  --danger-text: #ffd0d4;
+  --ok: #b7d4c2;
+  --warn: #e7c1bc;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-panel: var(--panel);
+  --color-sunken: var(--sunken);
+  --color-ink: var(--text);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-border: var(--border);
+  --color-blue: var(--blue);
+  --color-blue-2: var(--blue-2);
+  --color-danger: var(--danger);
+  --color-danger-text: var(--danger-text);
+  --color-ok: var(--ok);
+  --color-warn: var(--warn);
+  --font-sans: var(--font-outfit), "Avenir Next", "Segoe UI", sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body { min-height: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-outfit), "Avenir Next", "Segoe UI", sans-serif;
+  font-size: 15px;
+  line-height: 1.45;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+button, input, textarea, select { font: inherit; color: inherit; }
+
+button { cursor: pointer; }
+
+::selection { background: var(--blue); color: var(--text); }
+
+:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 2px;
+}
+
+.font-display { font-family: var(--font-syne), "Avenir Next", sans-serif; }
+.font-plex { font-family: var(--font-plex), ui-monospace, monospace; }

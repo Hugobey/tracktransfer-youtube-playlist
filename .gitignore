@@ -1,0 +1,16 @@
+node_modules/
+frontend/.next/
+frontend/out/
+backend/.venv/
+backend/data/
+backend/reports/
+reports/eval-stdout.txt
+reports/eval-stderr.txt
+reports/eval-exit.txt
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.local
+.DS_Store
+*.tsbuildinfo

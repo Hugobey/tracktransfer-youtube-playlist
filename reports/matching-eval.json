@@ -1,0 +1,2274 @@
+{
+  "summary": {
+    "evaluated": 105,
+    "catalog_size": 105,
+    "correct_first": 73,
+    "correct_top3": 73,
+    "wrong_version_first": 7,
+    "no_valid": 32,
+    "false_high": 0,
+    "search_errors": 0
+  },
+  "failures": [
+    {
+      "artist": "Fisher",
+      "title": "You Little Beauty (Extended Mix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "Vad5fjgvHrM",
+        "title": "You Little Beauty",
+        "artists": [
+          "FISHER"
+        ],
+        "score": 0.58
+      }
+    },
+    {
+      "artist": "Peggy Gou",
+      "title": "(It Goes Like) Nanana (Extended Mix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "tyd-Vs0MHH4",
+        "title": "(It Goes Like) Nanana",
+        "artists": [
+          "Peggy Gou"
+        ],
+        "score": 0.58
+      }
+    },
+    {
+      "artist": "Avicii",
+      "title": "Levels (Extended Mix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "wDuoOapZ9Z0",
+        "title": "Levels",
+        "artists": [
+          "Avicii"
+        ],
+        "score": 0.58
+      }
+    },
+    {
+      "artist": "Calvin Harris",
+      "title": "Summer (Radio Edit)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "KSgKKSny0Qo",
+        "title": "Summer",
+        "artists": [
+          "Calvin Harris"
+        ],
+        "score": 0.58
+      }
+    },
+    {
+      "artist": "Disclosure",
+      "title": "Latch (Radio Edit)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "VNg3MxYKSi0",
+        "title": "Latch (feat. Sam Smith)",
+        "artists": [
+          "Disclosure"
+        ],
+        "score": 0.58
+      }
+    },
+    {
+      "artist": "Joel Corry",
+      "title": "Head & Heart (Radio Edit)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "wJp5c7ko2XU",
+        "title": "Head & Heart (feat. MNEK)",
+        "artists": [
+          "Joel Corry"
+        ],
+        "score": 0.58
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "Glue (Live)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "lXc8EHmFXOM",
+        "title": "Glue",
+        "artists": [
+          "Bicep"
+        ],
+        "score": 0.58
+      }
+    }
+  ],
+  "rows": [
+    {
+      "artist": "Fisher",
+      "title": "Losing It",
+      "status": "high",
+      "selected": "y902FSus0fI",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "y902FSus0fI",
+        "title": "Losing It",
+        "artists": [
+          "FISHER"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Fisher",
+      "title": "You Little Beauty",
+      "status": "high",
+      "selected": "Vad5fjgvHrM",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "Vad5fjgvHrM",
+        "title": "You Little Beauty",
+        "artists": [
+          "FISHER"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Fisher",
+      "title": "Just Feels Tight",
+      "status": "high",
+      "selected": "LJiCis1yG1U",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "LJiCis1yG1U",
+        "title": "Just Feels Tight",
+        "artists": [
+          "FISHER"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Chris Lake",
+      "title": "Turn Off The Lights",
+      "status": "high",
+      "selected": "TF9t0JtOPMU",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "TF9t0JtOPMU",
+        "title": "Turn off the Lights",
+        "artists": [
+          "Chris Lake",
+          "Alexis Roberts"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Chris Lake",
+      "title": "In The Yuma",
+      "status": "high",
+      "selected": "it55efblIDg",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "it55efblIDg",
+        "title": "In The Yuma",
+        "artists": [
+          "Chris Lake",
+          "Aatig"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "John Summit",
+      "title": "Where You Are",
+      "status": "high",
+      "selected": "NXiadwKM-bA",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "NXiadwKM-bA",
+        "title": "Where You Are",
+        "artists": [
+          "John Summit",
+          "HAYLA"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Fred again..",
+      "title": "Marea (we've lost dancing)",
+      "status": "high",
+      "selected": "pZ_zeodlRRY",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "pZ_zeodlRRY",
+        "title": "Marea (we\u2019ve lost dancing)",
+        "artists": [
+          "Fred again..",
+          "The Blessed Madonna"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Fred again..",
+      "title": "adore u",
+      "status": "high",
+      "selected": "zUxJP8IiN5g",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "zUxJP8IiN5g",
+        "title": "adore u",
+        "artists": [
+          "Fred again..",
+          "Obongjayar"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Disclosure",
+      "title": "Latch",
+      "status": "high",
+      "selected": "VNg3MxYKSi0",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "VNg3MxYKSi0",
+        "title": "Latch (feat. Sam Smith)",
+        "artists": [
+          "Disclosure"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Disclosure",
+      "title": "You & Me",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "k0g0dtTFFew",
+        "title": "Confess To Me (feat. Jessie Ware)",
+        "artists": [
+          "Disclosure"
+        ],
+        "score": 0.7844
+      }
+    },
+    {
+      "artist": "Disclosure",
+      "title": "White Noise",
+      "status": "high",
+      "selected": "y7VukcQvKQM",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "y7VukcQvKQM",
+        "title": "White Noise (feat. AlunaGeorge)",
+        "artists": [
+          "Disclosure"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "Glue",
+      "status": "high",
+      "selected": "lXc8EHmFXOM",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "lXc8EHmFXOM",
+        "title": "Glue",
+        "artists": [
+          "Bicep"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "Apricots",
+      "status": "high",
+      "selected": "-h6PCkfTBcc",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "-h6PCkfTBcc",
+        "title": "Apricots",
+        "artists": [
+          "Bicep"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Peggy Gou",
+      "title": "(It Goes Like) Nanana",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "XOsY3W3dlI0",
+        "title": "(It Goes Like) Nanana (Edit)",
+        "artists": [
+          "Peggy Gou"
+        ],
+        "score": 0.804
+      }
+    },
+    {
+      "artist": "R\u00fcf\u00fcs Du Sol",
+      "title": "Innerbloom",
+      "status": "high",
+      "selected": "Gt2wnz7oTwo",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "Gt2wnz7oTwo",
+        "title": "Innerbloom",
+        "artists": [
+          "R\u00dcF\u00dcS DU SOL"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "R\u00fcf\u00fcs Du Sol",
+      "title": "On My Knees",
+      "status": "high",
+      "selected": "JbOz0sMLFko",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "JbOz0sMLFko",
+        "title": "On My Knees",
+        "artists": [
+          "R\u00dcF\u00dcS DU SOL"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Lane 8",
+      "title": "Road",
+      "status": "high",
+      "selected": "Csq5ZtsI8DE",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "Csq5ZtsI8DE",
+        "title": "Road",
+        "artists": [
+          "Lane 8",
+          "Arctic Lake"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Ben B\u00f6hmer",
+      "title": "Beyond Beliefs",
+      "status": "high",
+      "selected": "hR0-t1UOqtI",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "hR0-t1UOqtI",
+        "title": "Beyond Beliefs",
+        "artists": [
+          "Ben B\u00f6hmer"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Nora En Pure",
+      "title": "Come With Me",
+      "status": "high",
+      "selected": "cthK03g3VyQ",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "cthK03g3VyQ",
+        "title": "Come With Me",
+        "artists": [
+          "Nora En Pure"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "CamelPhat",
+      "title": "Cola",
+      "status": "high",
+      "selected": "o5PVzsGRbm8",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "o5PVzsGRbm8",
+        "title": "Cola",
+        "artists": [
+          "CamelPhat",
+          "Elderbrook"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Duke Dumont",
+      "title": "Ocean Drive",
+      "status": "high",
+      "selected": "dmaE78oaVLg",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "dmaE78oaVLg",
+        "title": "Ocean Drive",
+        "artists": [
+          "Duke Dumont"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Duke Dumont",
+      "title": "I Got U",
+      "status": "high",
+      "selected": "v0Eypzm1LEQ",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "v0Eypzm1LEQ",
+        "title": "I Got U (feat. Jax Jones)",
+        "artists": [
+          "Duke Dumont"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "MK",
+      "title": "17",
+      "status": "high",
+      "selected": "10PgnWB2FyU",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "10PgnWB2FyU",
+        "title": "17",
+        "artists": [
+          "MK"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Gorgon City",
+      "title": "Ready For Your Love",
+      "status": "high",
+      "selected": "Ta2RW9Mw40k",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "Ta2RW9Mw40k",
+        "title": "Ready For Your Love",
+        "artists": [
+          "Gorgon City"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Purple Disco Machine",
+      "title": "Hypnotized",
+      "status": "high",
+      "selected": "91jpOlo3M3Y",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "91jpOlo3M3Y",
+        "title": "Hypnotized",
+        "artists": [
+          "Purple Disco Machine",
+          "Sophie and the Giants"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Purple Disco Machine",
+      "title": "Body Funk",
+      "status": "high",
+      "selected": "Vv-9075O7jM",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "Vv-9075O7jM",
+        "title": "Body Funk",
+        "artists": [
+          "Purple Disco Machine"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Dom Dolla",
+      "title": "San Frandisco",
+      "status": "high",
+      "selected": "0GTvscgfb1k",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "0GTvscgfb1k",
+        "title": "San Frandisco",
+        "artists": [
+          "Dom Dolla"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Dom Dolla",
+      "title": "Miracle Maker",
+      "status": "high",
+      "selected": "cZNizfF0sO0",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "cZNizfF0sO0",
+        "title": "Miracle Maker",
+        "artists": [
+          "Dom Dolla",
+          "Clementine Douglas"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Sonny Fodera",
+      "title": "Mind Still",
+      "status": "high",
+      "selected": "tcGfYlaQZc8",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "tcGfYlaQZc8",
+        "title": "Mind Still (feat. blythe)",
+        "artists": [
+          "Sonny Fodera"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "MEDUZA",
+      "title": "Piece of Your Heart",
+      "status": "high",
+      "selected": "488paN09KiE",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "488paN09KiE",
+        "title": "Piece Of Your Heart",
+        "artists": [
+          "MEDUZA",
+          "Goodboys"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Joel Corry",
+      "title": "Head & Heart",
+      "status": "high",
+      "selected": "wJp5c7ko2XU",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "wJp5c7ko2XU",
+        "title": "Head & Heart (feat. MNEK)",
+        "artists": [
+          "Joel Corry"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "David Guetta",
+      "title": "Titanium",
+      "status": "high",
+      "selected": "LRPGqNeav_M",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "LRPGqNeav_M",
+        "title": "Titanium (feat. Sia)",
+        "artists": [
+          "David Guetta"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "1poh6qNeX50",
+        "title": "Don't You Worry Child (feat. Didie Caria)",
+        "artists": [
+          "DJ Fede"
+        ],
+        "score": 0.7232
+      }
+    },
+    {
+      "artist": "Avicii",
+      "title": "Wake Me Up",
+      "status": "high",
+      "selected": "2NiyrtYegso",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "2NiyrtYegso",
+        "title": "Wake Me Up",
+        "artists": [
+          "Avicii"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Avicii",
+      "title": "Levels",
+      "status": "high",
+      "selected": "wDuoOapZ9Z0",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "wDuoOapZ9Z0",
+        "title": "Levels",
+        "artists": [
+          "Avicii"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Calvin Harris",
+      "title": "Summer",
+      "status": "high",
+      "selected": "KSgKKSny0Qo",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "KSgKKSny0Qo",
+        "title": "Summer",
+        "artists": [
+          "Calvin Harris"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Calvin Harris",
+      "title": "Feel So Close",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "EkrUnxNCxS8",
+        "title": "Feel So Close",
+        "artists": [
+          "Chic Lghts"
+        ],
+        "score": 0.7583
+      }
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "status": "high",
+      "selected": "fa5IWHDbftI",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "fa5IWHDbftI",
+        "title": "One More Time",
+        "artists": [
+          "Daft Punk"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "Digital Love",
+      "status": "high",
+      "selected": "Smi8vAbm_8o",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "Smi8vAbm_8o",
+        "title": "Digital Love",
+        "artists": [
+          "Daft Punk"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "Around the World",
+      "status": "high",
+      "selected": "Jb6gcoR266U",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "Jb6gcoR266U",
+        "title": "Around the World",
+        "artists": [
+          "Daft Punk"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Justice",
+      "title": "D.A.N.C.E.",
+      "status": "high",
+      "selected": "P0Nryn0YZ-A",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "P0Nryn0YZ-A",
+        "title": "D.A.N.C.E.",
+        "artists": [
+          "Justice"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "The Chemical Brothers",
+      "title": "Galvanize",
+      "status": "high",
+      "selected": "TXUZwNRYJYo",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "TXUZwNRYJYo",
+        "title": "Galvanize (feat. Q-Tip)",
+        "artists": [
+          "The Chemical Brothers"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Underworld",
+      "title": "Born Slippy .NUXX",
+      "status": "high",
+      "selected": "CkHdBf-8PZE",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "CkHdBf-8PZE",
+        "title": "Born Slippy (Nuxx)",
+        "artists": [
+          "Underworld"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Faithless",
+      "title": "Insomnia",
+      "status": "high",
+      "selected": "Xz-8rlqcC5I",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "Xz-8rlqcC5I",
+        "title": "Insomnia",
+        "artists": [
+          "Faithless"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Stardust",
+      "title": "Music Sounds Better With You",
+      "status": "high",
+      "selected": "Hf244LCkkLc",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "Hf244LCkkLc",
+        "title": "Music Sounds Better With You",
+        "artists": [
+          "Stardust"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Modjo",
+      "title": "Lady (Hear Me Tonight)",
+      "status": "high",
+      "selected": "MR3uP7IYz44",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "MR3uP7IYz44",
+        "title": "Lady (Hear Me Tonight)",
+        "artists": [
+          "Modjo"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "R\u00f6yksopp",
+      "title": "Eple",
+      "status": "high",
+      "selected": "KkD7a82mTvY",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "KkD7a82mTvY",
+        "title": "Eple",
+        "artists": [
+          "R\u00f6yksopp"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "S\u00e9bastien Tellier",
+      "title": "La Ritournelle",
+      "status": "high",
+      "selected": "a8lwF_uiECE",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "a8lwF_uiECE",
+        "title": "La ritournelle",
+        "artists": [
+          "S\u00e9bastien Tellier"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "K\u00f6lsch",
+      "title": "Grey",
+      "status": "high",
+      "selected": "p4pfOnfEu1M",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "p4pfOnfEu1M",
+        "title": "Grey",
+        "artists": [
+          "K\u00f6lsch"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "\u00c2me",
+      "title": "Rej",
+      "status": "high",
+      "selected": "1MHKcmWKqZ0",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "1MHKcmWKqZ0",
+        "title": "Rej",
+        "artists": [
+          "\u00c2me"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Black Coffee",
+      "title": "Drive",
+      "status": "high",
+      "selected": "7_pFEKWHmrM",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "7_pFEKWHmrM",
+        "title": "Drive (feat. Delilah Montagu)",
+        "artists": [
+          "Black Coffee",
+          "David Guetta"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Solomun",
+      "title": "Home",
+      "status": "high",
+      "selected": "kX1p57JL3Bs",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "kX1p57JL3Bs",
+        "title": "Home",
+        "artists": [
+          "Solomun"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "&ME",
+      "title": "The Rapture",
+      "status": "high",
+      "selected": "ShTXco96u1Q",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "ShTXco96u1Q",
+        "title": "The Rapture",
+        "artists": [
+          "&ME"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Adriatique",
+      "title": "Nude",
+      "status": "high",
+      "selected": "xBTcP4BgzyA",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "xBTcP4BgzyA",
+        "title": "Nude",
+        "artists": [
+          "Adriatique"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Boris Brejcha",
+      "title": "Happinezz",
+      "status": "high",
+      "selected": "uFVe-BZnYBM",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "uFVe-BZnYBM",
+        "title": "Happinezz (feat. Ginger)",
+        "artists": [
+          "Boris Brejcha"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Four Tet",
+      "title": "Baby",
+      "status": "high",
+      "selected": "BhvEtB5m7yM",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "BhvEtB5m7yM",
+        "title": "Baby",
+        "artists": [
+          "Four Tet"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Caribou",
+      "title": "Can't Do Without You",
+      "status": "high",
+      "selected": "QlseT-cULeo",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "QlseT-cULeo",
+        "title": "Can't Do Without You",
+        "artists": [
+          "Caribou"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Jamie xx",
+      "title": "Gosh",
+      "status": "high",
+      "selected": "qOqT02LV8Es",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "qOqT02LV8Es",
+        "title": "Gosh (feat. MC Moose)",
+        "artists": [
+          "Jamie xx"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Flume",
+      "title": "Never Be Like You",
+      "status": "high",
+      "selected": "klEouW7vL4c",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "klEouW7vL4c",
+        "title": "Never Be Like You",
+        "artists": [
+          "Flume",
+          "Kai"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "ODESZA",
+      "title": "A Moment Apart",
+      "status": "high",
+      "selected": "BwmzXTjDt7A",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "BwmzXTjDt7A",
+        "title": "A Moment Apart",
+        "artists": [
+          "ODESZA"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Jon Hopkins",
+      "title": "Emerald Rush",
+      "status": "high",
+      "selected": "zzwvuznsEJg",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "zzwvuznsEJg",
+        "title": "Emerald Rush",
+        "artists": [
+          "Jon Hopkins"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Moderat",
+      "title": "A New Error",
+      "status": "high",
+      "selected": "QpxFcMYRV08",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "QpxFcMYRV08",
+        "title": "A New Error",
+        "artists": [
+          "Moderat"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Maceo Plex",
+      "title": "Conjure Superstar",
+      "status": "high",
+      "selected": "GMfj3CBxA1s",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "GMfj3CBxA1s",
+        "title": "Conjure Superstar",
+        "artists": [
+          "Maceo Plex"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Hot Since 82",
+      "title": "Knee Deep In Louise",
+      "status": "high",
+      "selected": "xzDtXwVRCog",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "xzDtXwVRCog",
+        "title": "Knee Deep in Louise",
+        "artists": [
+          "Hot Since 82"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Mall Grab",
+      "title": "Liverpool Street In The Rain",
+      "status": "high",
+      "selected": "qmoyNjSlCx4",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "qmoyNjSlCx4",
+        "title": "Liverpool Street In The Rain",
+        "artists": [
+          "Mall Grab"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Keinemusik",
+      "title": "Move",
+      "status": "high",
+      "selected": "j1QrD9-S4sU",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "j1QrD9-S4sU",
+        "title": "Move",
+        "artists": [
+          "Adam Port",
+          "Stryv",
+          "Keinemusik",
+          "Orso"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Fisher",
+      "title": "Losing It (Extended Mix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "rwBA75RmDkc",
+        "title": "Stop It (Extended Mix)",
+        "artists": [
+          "FISHER"
+        ],
+        "score": 0.804
+      }
+    },
+    {
+      "artist": "Fisher",
+      "title": "You Little Beauty (Extended Mix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "Vad5fjgvHrM",
+        "title": "You Little Beauty",
+        "artists": [
+          "FISHER"
+        ],
+        "score": 0.58
+      }
+    },
+    {
+      "artist": "Chris Lake",
+      "title": "Turn Off The Lights (Extended Mix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "b-oo77NU5es",
+        "title": "Turn Off The Lights (Extended Mix)",
+        "artists": [
+          "Nicky Romero"
+        ],
+        "score": 0.7358
+      }
+    },
+    {
+      "artist": "Dom Dolla",
+      "title": "San Frandisco (Extended Mix)",
+      "status": "high",
+      "selected": "MedcjeL0cPQ",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "MedcjeL0cPQ",
+        "title": "San Frandisco (Extended Mix)",
+        "artists": [
+          "Dom Dolla"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Purple Disco Machine",
+      "title": "Hypnotized (Extended Mix)",
+      "status": "high",
+      "selected": "BzL2nMQO3mM",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "BzL2nMQO3mM",
+        "title": "Hypnotized (Extended Mix)",
+        "artists": [
+          "Purple Disco Machine",
+          "Sophie and the Giants"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "MEDUZA",
+      "title": "Piece of Your Heart (Extended Mix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "9pEC3aKHywg",
+        "title": "Sparks (Extended Mix) (feat. Mali-Koa)",
+        "artists": [
+          "MEDUZA",
+          "DEL-30"
+        ],
+        "score": 0.726
+      }
+    },
+    {
+      "artist": "Joel Corry",
+      "title": "Head & Heart (Extended Mix)",
+      "status": "high",
+      "selected": "9Y9T9VBAXho",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "9Y9T9VBAXho",
+        "title": "Head & Heart [Extended Mix] (feat. MNEK)",
+        "artists": [
+          "Joel Corry"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "CamelPhat",
+      "title": "Cola (Extended Mix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "zWewruOuOHo",
+        "title": "Cola (Club Mix)",
+        "artists": [
+          "CamelPhat",
+          "Elderbrook"
+        ],
+        "score": 0.8415
+      }
+    },
+    {
+      "artist": "Duke Dumont",
+      "title": "Ocean Drive (Extended Mix)",
+      "status": "high",
+      "selected": "h9E61oraG3Y",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "h9E61oraG3Y",
+        "title": "Ocean Drive (Extended Mix)",
+        "artists": [
+          "Duke Dumont"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "MK",
+      "title": "17 (Extended Mix)",
+      "status": "high",
+      "selected": "Hh3ZcmFq7Bc",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "Hh3ZcmFq7Bc",
+        "title": "17 (Extended Mix)",
+        "artists": [
+          "MK"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Gorgon City",
+      "title": "Ready For Your Love (Extended Mix)",
+      "status": "high",
+      "selected": "w71s-wgEJ0Y",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "w71s-wgEJ0Y",
+        "title": "Ready For Your Love (Extended Mix) (feat. MNEK)",
+        "artists": [
+          "Gorgon City"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Peggy Gou",
+      "title": "(It Goes Like) Nanana (Extended Mix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "tyd-Vs0MHH4",
+        "title": "(It Goes Like) Nanana",
+        "artists": [
+          "Peggy Gou"
+        ],
+        "score": 0.58
+      }
+    },
+    {
+      "artist": "John Summit",
+      "title": "Where You Are (Extended Mix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "a75ob5begcQ",
+        "title": "Hear You Calling (Extended Mix)",
+        "artists": [
+          "John Grand",
+          "Daijan"
+        ],
+        "score": 0.6902
+      }
+    },
+    {
+      "artist": "Avicii",
+      "title": "Levels (Extended Mix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "wDuoOapZ9Z0",
+        "title": "Levels",
+        "artists": [
+          "Avicii"
+        ],
+        "score": 0.58
+      }
+    },
+    {
+      "artist": "Avicii",
+      "title": "Wake Me Up (Radio Edit)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "tyFHD7RJxtA",
+        "title": "So Wake Me up (Radio Edit)",
+        "artists": [
+          "Radio City Dj's"
+        ],
+        "score": 0.753
+      }
+    },
+    {
+      "artist": "Avicii",
+      "title": "Levels (Radio Edit)",
+      "status": "high",
+      "selected": "xAgv1mAyxr8",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "xAgv1mAyxr8",
+        "title": "Levels (Radio Edit)",
+        "artists": [
+          "Avicii"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child (Radio Edit)",
+      "status": "high",
+      "selected": "vRqbSgp8w38",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "vRqbSgp8w38",
+        "title": "Don't You Worry Child (Radio Edit) (feat. John Martin)",
+        "artists": [
+          "Swedish House Mafia"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Calvin Harris",
+      "title": "Summer (Radio Edit)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "KSgKKSny0Qo",
+        "title": "Summer",
+        "artists": [
+          "Calvin Harris"
+        ],
+        "score": 0.58
+      }
+    },
+    {
+      "artist": "David Guetta",
+      "title": "Titanium (Radio Edit)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "z2xYqsdNp6E",
+        "title": "Money [Radio Edit] (feat. Chris Willis & Mon\u00e9)",
+        "artists": [
+          "David Guetta"
+        ],
+        "score": 0.7001
+      }
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "One More Time (Radio Edit)",
+      "status": "high",
+      "selected": "WYhv-hR6Q2U",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "WYhv-hR6Q2U",
+        "title": "One More Time (Radio Edit)",
+        "artists": [
+          "Daft Punk"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Disclosure",
+      "title": "Latch (Radio Edit)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "VNg3MxYKSi0",
+        "title": "Latch (feat. Sam Smith)",
+        "artists": [
+          "Disclosure"
+        ],
+        "score": 0.58
+      }
+    },
+    {
+      "artist": "MEDUZA",
+      "title": "Piece of Your Heart (Radio Edit)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "koRIzCs0XYM",
+        "title": "Piece of Your Love (Radio Edit)",
+        "artists": [
+          "Shawn Wolf Wollery & Bianca Love"
+        ],
+        "score": 0.6422
+      }
+    },
+    {
+      "artist": "Joel Corry",
+      "title": "Head & Heart (Radio Edit)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "wJp5c7ko2XU",
+        "title": "Head & Heart (feat. MNEK)",
+        "artists": [
+          "Joel Corry"
+        ],
+        "score": 0.58
+      }
+    },
+    {
+      "artist": "Faithless",
+      "title": "Insomnia (Radio Edit)",
+      "status": "high",
+      "selected": "sUUErsKirPI",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "sUUErsKirPI",
+        "title": "Insomnia (Radio Edit)",
+        "artists": [
+          "Faithless"
+        ],
+        "score": 0.954
+      }
+    },
+    {
+      "artist": "Fisher",
+      "title": "You Little Beauty (Chris Lake Remix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "c7jXxFZfY4I",
+        "title": "You Little Beauty (Fathers Day Remix)",
+        "artists": [],
+        "score": 0.5961
+      }
+    },
+    {
+      "artist": "Disclosure",
+      "title": "Latch (TIEKS Remix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "imFncOEEpdY",
+        "title": "Latch (Jamie Jones Remix) (feat. Sam Smith)",
+        "artists": [
+          "Disclosure"
+        ],
+        "score": 0.8469
+      }
+    },
+    {
+      "artist": "R\u00fcf\u00fcs Du Sol",
+      "title": "Innerbloom (What So Not Remix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "6yPyAvx98FE",
+        "title": "Innerbloom (Sasha Remix)",
+        "artists": [
+          "R\u00dcF\u00dcS DU SOL"
+        ],
+        "score": 0.8593
+      }
+    },
+    {
+      "artist": "M83",
+      "title": "Midnight City (Eric Prydz Remix)",
+      "status": "high",
+      "selected": "VnPTK6idYg4",
+      "correct_first": true,
+      "correct_top3": true,
+      "wrong_version_first": false,
+      "no_valid": false,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "VnPTK6idYg4",
+        "title": "Midnight City (Eric Prydz Private Remix)",
+        "artists": [
+          "M83"
+        ],
+        "score": 0.933
+      }
+    },
+    {
+      "artist": "Eric Prydz",
+      "title": "Opus (Four Tet Remix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "oYQMc5XjWBQ",
+        "title": "Deserter (Four Tet Remix - Instrumental)",
+        "artists": [
+          "Matthew Dear"
+        ],
+        "score": 0.6086
+      }
+    },
+    {
+      "artist": "Chris Lake",
+      "title": "After Life (Chris Lake Remix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "18E3so-f8Lw",
+        "title": "Moth To A Flame (Chris Lake Remix)",
+        "artists": [
+          "Swedish House Mafia",
+          "The Weeknd",
+          "Chris Lake"
+        ],
+        "score": 0.8455
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "Glue (Pablo Bozzi Remix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "XTs0rnqOqa4",
+        "title": "Lush (Pablo Bozzi Remix)",
+        "artists": [
+          "Seliga"
+        ],
+        "score": 0.671
+      }
+    },
+    {
+      "artist": "R\u00fcf\u00fcs Du Sol",
+      "title": "Innerbloom (Live)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "LkAPU5ibzfs",
+        "title": "Innerbloom (Live)",
+        "artists": [],
+        "score": 0.654
+      }
+    },
+    {
+      "artist": "Bicep",
+      "title": "Glue (Live)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": true,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "lXc8EHmFXOM",
+        "title": "Glue",
+        "artists": [
+          "Bicep"
+        ],
+        "score": 0.58
+      }
+    },
+    {
+      "artist": "The Chemical Brothers",
+      "title": "Galvanize (Live)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "sjz8nJy1DWs",
+        "title": "Song To The Siren (Live At Lowlands Festival, 1997)",
+        "artists": [
+          "The Chemical Brothers"
+        ],
+        "score": 0.6907
+      }
+    },
+    {
+      "artist": "Fred again..",
+      "title": "Marea (Live)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "4rkjdTl_yOw",
+        "title": "9 months & 50 hours live playback (Palacio De Los Deportes, 30th July 2026)",
+        "artists": [
+          "Fred again..",
+          "LATIN MAFIA"
+        ],
+        "score": 0.6864
+      }
+    },
+    {
+      "artist": "Hugo Blanchart",
+      "title": "Booth Tape 19 November",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "YWZa_3D8F0Q",
+        "title": "Love Tape",
+        "artists": [
+          "Hugo"
+        ],
+        "score": 0.6701
+      }
+    },
+    {
+      "artist": "ZZQ Qzx",
+      "title": "Not A Real Dance Record",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "dzYD5lEtV5w",
+        "title": "We Still Dance",
+        "artists": [
+          "Z\u039bX"
+        ],
+        "score": 0.6637
+      }
+    },
+    {
+      "artist": "Liminal Carp",
+      "title": "Marble Hour (Extended Mix)",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "31qlKqH9xKE",
+        "title": "Marble",
+        "artists": [
+          "Superlvminal"
+        ],
+        "score": 0.4908
+      }
+    },
+    {
+      "artist": "Nobody Real",
+      "title": "Untitled Dubplate",
+      "status": "review",
+      "selected": null,
+      "correct_first": false,
+      "correct_top3": false,
+      "wrong_version_first": false,
+      "no_valid": true,
+      "false_high": false,
+      "error": null,
+      "top": {
+        "video_id": "K9zaaVo5lEA",
+        "title": "Untitled Freestyle",
+        "artists": [
+          "Nobody Really"
+        ],
+        "score": 0.8176
+      }
+    }
+  ]
+}
